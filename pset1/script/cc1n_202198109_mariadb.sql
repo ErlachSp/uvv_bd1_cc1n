@@ -1,5 +1,6 @@
 /*
-
+Este é um banco de dados(bd) fictício da uvv para fins de praticar sobre banco de dados 1.
+Neste bd foi criado cada tabela e estrutura seguindo um modelo de banco de dados que está representado na imagem como pdf.
 */
 
 DROP DATABASE IF EXISTS uvv;
